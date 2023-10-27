@@ -5,5 +5,4 @@ ipython
 matplotlib
 scipy
 requests
-sys
 datetime
